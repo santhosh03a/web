@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello</title>
+    <style>
+        img{
+            width: 100px;
+            border-radius: 50px;
+            float: left;
+        }
+        p.candidate{
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmarshallshepherd%2Ffiles%2F2017%2F05%2F18698369_10212844348565183_8072570633462979037_n.jpg" alt="sunrise"/>
+    <p class="candidate">Hello <em>World</em></p>
+        
+</body>
+</html>
